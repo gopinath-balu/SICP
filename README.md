@@ -1,2 +1,2 @@
 # SICP
-Exercises of SICP programming language.
+Exercises of SICP.
